@@ -1,0 +1,1 @@
+mongodb+srv://lalithkumarg20:lalith@cluster0.tn8dwse.mongodb.net/?retryWrites=true&w=majoritys
